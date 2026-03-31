@@ -2,10 +2,11 @@
 
 A web scraping pipeline for Shopee Malaysia that combines browser automation with LLM-based filtering and sub‑product discovery.
 
-<figure align="center">
-  <img src="https://raw.githubusercontent.com/TvlanS/Shoppe-Scrapper/3ad9ac4c7d4a0a928e6614877b4abf2c612fa034/Img/Gradio%20sample.png" alt="Gradio Sample UI" width="600">
-  <figcaption><em>Figure 1: Gradio web interface sample for the Shoppe-Scrapper tool, demonstrating the scraper's UI for inputting Shopee product queries and displaying scraped results.</em></figcaption>
-</figure>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TvlanS/Shoppe-Scrapper/3ad9ac4c7d4a0a928e6614877b4abf2c612fa034/Img/Gradio%20sample.png" alt="Gradio Sample UI" width="700">
+  <br>
+  <em>Figure 1: Gradio web interface sample for the Shoppe-Scrapper tool.</em>
+</div>
 
 ## Features
 
