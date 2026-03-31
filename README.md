@@ -208,4 +208,3 @@ Gradio requires numpy. Install with `pip install numpy`
 ## Future Improvements
 - Create a dashboard
 - Auto Generate report
-- 
